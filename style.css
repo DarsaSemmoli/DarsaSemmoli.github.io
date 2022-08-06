@@ -1,0 +1,69 @@
+h1{
+
+	text-align: center;
+ 	color: darkblue;
+ 	background-color: #FFFFFF;
+ 	border-radius: 20px;
+}
+.c1{
+	
+	color: #B0094;
+	background-color: #F1FF00;
+	border-radius: 20px;
+	text-align: center;
+	
+	
+	}
+
+body{
+
+	background-color:skyblue;
+
+
+}
+.c2{
+	color:#B0094;
+	background-color: #F1FF00;
+	border-radius: 20px;
+	text-align: center;
+}
+.container{
+
+	width: 80%;
+	margin: auto;
+	margin-left: 100px;
+
+}
+
+.c3{
+	color: #B0094;
+	background-color: #F1FF00;
+	border-radius: 20px;
+	text-align: center;
+
+}
+
+img{
+	text-align: center;
+	width: 100px;
+	padding-left: 14%;
+	width: 80%;
+	margin: auto;
+	
+
+	
+}
+.c7{
+	color: black;
+	text-align: center;
+
+
+}
+button{
+	background-color: black;
+	border-radius: 20px;
+	color: yellow;
+	padding: 20px;
+}
+
+
